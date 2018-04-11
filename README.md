@@ -18,11 +18,11 @@ Contains a section : Tips for making a Great UI.
 
 ### *Manage quizzes* -
 
-> We are making an app for all the Udacity scholars, where there will be the list of all the quizzes and their description (like - Name, > Moderator, Deadline, Photo, “GetQuiz” button, “AttemptQuiz” button, Review to the quiz etc). By "GetQuiz" button, one will be able to > get the ".pdf" file of all those quizzes whose deadline had passed. A PDF file will be containing all the question which were there in > the quiz with their correct answers. And by the "AttemptQuiz" button, one will be able to attempt all those quizzes in our app itself > which are still open. We will also incorporate Notification and Reminder features based on the quizzes deadlines.
+> We are making an app for all the Udacity scholars, where there will be the list of all the quizzes and their description (like - Name,  Moderator, Deadline, Photo, “GetQuiz” button, “AttemptQuiz” button, Review to the quiz etc). By "GetQuiz" button, one will be able to  get the ".pdf" file of all those quizzes whose deadline had passed. A PDF file will be containing all the question which were there in  the quiz with their correct answers. And by the "AttemptQuiz" button, one will be able to attempt all those quizzes in our app itself  which are still open. We will also incorporate Notification and Reminder features based on the quizzes deadlines.
 
 ### *Get Inspired* -
 
-> The app will also have a feature of showcasing the work done by other students (like- layouts, blogs etc) in the form of a list. This > feature will showcase the efforts done by all students so far. And one can easily reach to the person, if he needs any kind of help in > developing the same thing even after the 3 month challenge. There will be review / rating feature in the app by which you can give > ?> proper feedback to all the good work done by the scholars and also valuable suggestions to help them improve their work.
+> The app will also have a feature of showcasing the work done by other students (like- layouts, blogs etc) in the form of a list. This  feature will showcase the efforts done by all students so far. And one can easily reach to the person, if he needs any kind of help in  developing the same thing even after the 3 month challenge. There will be review / rating feature in the app by which you can give proper feedback to all the good work done by the scholars and also valuable suggestions to help them improve their work.
 
 ### *Course Notes / External resources* -
 
