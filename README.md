@@ -6,7 +6,7 @@ Thank you for showing interest in the project. We will work together and make it
 
 `Purpose of the Project` -
 
-• Attempting all the quizzes will be easy for everyone.
+• Attempting all the quizzes will be easy for everyone. \n
 • Reminder and Notifications for the quizzes.
 • Access to the quiz for the revision even after the 3 months challenge. 
 • Easy to manage quizzes and keeping the track of all attempted quizzes.
