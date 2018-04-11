@@ -4,7 +4,7 @@ Hello Everyone,
 
 Thank you for showing interest in the project. We will work together and make it big.
 
-## `Purpose of the Project` -
+## Purpose of the Project -
 
 - Attempting all the quizzes will be easy for everyone.
 - Reminder and Notifications for the quizzes.
@@ -14,7 +14,7 @@ Thank you for showing interest in the project. We will work together and make it
 - Android Resources: Useful resources related to android based on search keyword
 Contains a section : Tips for making a Great UI.
 
-## `Idea of the project` -
+## Idea of the project -
 
 ### *Manage quizzes* -
 
