@@ -1,4 +1,4 @@
-# *QUIZ/SHOWCASE APP*
+# QUIZ/SHOWCASE APP
 
 Hello Everyone,
 
@@ -22,11 +22,11 @@ Contains a section : Tips for making a Great UI.
 
 ### *Get Inspired* -
 
-The app will also have a feature of showcasing the work done by other students (like- layouts, blogs etc) in the form of a list. This feature will showcase the efforts done by all students so far. And one can easily reach to the person, if he needs any kind of help in developing the same thing even after the 3 month challenge. There will be review / rating feature in the app by which you can give proper feedback to all the good work done by the scholars and also valuable suggestions to help them improve their work.
+> The app will also have a feature of showcasing the work done by other students (like- layouts, blogs etc) in the form of a list. This > feature will showcase the efforts done by all students so far. And one can easily reach to the person, if he needs any kind of help in > developing the same thing even after the 3 month challenge. There will be review / rating feature in the app by which you can give > ?> proper feedback to all the good work done by the scholars and also valuable suggestions to help them improve their work.
 
 ### *Course Notes / External resources* -
 
-People will also be able to search for Android keywords to find relevant resources. Resources/blogs will be present based on the number upvotes received in the app, if no upvotes then alphabetically.
+> People will also be able to search for Android keywords to find relevant resources. Resources/blogs will be present based on the  number upvotes received in the app, if no upvotes then alphabetically.
 
 `Mods`: Aditi Soni (@aditi.soni) , Vishal Sehgal (@sehgalvishal31) , Parth Joshi (@Parth J)
 
